@@ -24,7 +24,7 @@ Welcome to the official GitHub of Eiland-X!
 
 ## About Eiland-X
 
-Eiland-X is a group of IT-enthousiasts, who also happen to be great friends, that focus on system management, automisation and maintenance. We enjoy automating and perfecting workflows that allow for an increase ease-of-use, performance and efficiency. 
+Eiland-X is a group of IT-enthousiasts, who also happen to be great friends, that focus on system management, automisation and maintenance. We enjoy automating and perfecting workflows that allow for an increase ease-of-use, performance and efficiency. To see what we are up to, please don't hesitate to visit our [public documentation](https://docs.eiland-x.be/), where you can see our blogposts, guides and more.
 
 ## Mission
 
